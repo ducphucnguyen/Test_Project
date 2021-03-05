@@ -4,3 +4,7 @@ y = rand(10);
 x = rand(10);
 
 plot(x,y)
+
+
+%Edidt version
+plot(y,x)
